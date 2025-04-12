@@ -12,6 +12,9 @@ Click the link below to access the full FPS project:
 
 > Note: Make sure you have enough space and computing power
 
+# To run the application
+Download the project, Project folder > Windows > .exe files
+
 ## 🛠️ Project Details
 
 - **Engine**: Unreal Engine 5  
